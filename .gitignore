@@ -1,5 +1,5 @@
 .DS_Store
-config.local.env
+*.env
 development.sh
 docker
 fix-initiator-sdk
