@@ -1,8 +1,11 @@
 .DS_Store
 *.env
+!config.env
 development.sh
 docker
 fix-initiator-sdk
 go.mod
 go.sum
 main.go
+log/*
+!log/sample.log
